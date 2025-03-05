@@ -1,0 +1,32 @@
+{
+    "firstYear": [
+        "Introduction to Computing",
+        "Computer Programming 1",
+        "Readings in Philippine History",
+        "Mathematics in the Modern World",
+        "Computer Programming 2",
+        "Data Structures and Algorithms",
+        "Science, Technology and Society",
+        "Fitness Activity and Exercises"
+    ],
+    "secondYear": [
+        "Intro to Human Computer Interaction",
+        "Fundamentals of Database Systems",
+        "Platform Technologies",
+        "Object Oriented Programming",
+        "Information Management",
+        "Web Systems and Technologies",
+        "Systems Integration and Architecture",
+        "Life and Works of Rizal"
+    ],
+    "thirdYear": [
+        "Information Assurance and Security",
+        "Mobile Programming",
+        "Software Engineering",
+        "Technopreneurship",
+        "CAPSTONE Project and Research 1",
+        "Integrative Programming and Technologies",
+        "Applications Development and Emerging Technologies",
+        "Foreign Language"
+    ]
+}
